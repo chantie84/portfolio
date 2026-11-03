@@ -155,6 +155,11 @@ footer .social-links a:hover {
   background: var(--branding-color);
 }
 
+a {
+  color: black;
+  text-decoration-color: black;
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 35px;
