@@ -76,6 +76,10 @@ P {
   margin: 30px;
 }
 
+.black-link {
+  text-decoration: none;
+  color: black;
+}
 .btn-branding {
   background: var(--branding-color);
   border-radius: 4px;
